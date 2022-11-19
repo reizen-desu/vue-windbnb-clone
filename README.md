@@ -1,7 +1,7 @@
 # Windbnb
 
 Based on this [devchallenges.io](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD) challenge.  
-You can see the live version [here](https://reizen-desu.github.io/vue-windbnb-app).
+You can see the live version [here](https://reizen-desu.github.io/vue-windbnb-clone).
 
 ## Description
 
