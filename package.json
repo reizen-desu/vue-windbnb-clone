@@ -1,5 +1,6 @@
 {
   "name": "windbnb",
+  "homepage": "https://reizen-desu.github.io/vue-windbnb-clone",
   "version": "0.1.0",
   "private": true,
   "scripts": {
